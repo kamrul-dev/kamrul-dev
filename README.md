@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Email: kamrulprl@gmail.com
+- Phone: 01735506482
+- Skype: kamrulprl
 
 <!---
 kamrul-dev/kamrul-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
