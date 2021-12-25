@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Kamrul Hasan
 - 👀 I’m interested in Data Science, Programming , Cyber-Security
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Web Developing, Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me ...At Email: kamrulprl@gmail.com
 
