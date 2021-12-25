@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Email: kamrulprl@gmail.com
-- Phone: 01735506482
+- Phone: +8801735506482
 - Skype: kamrulprl
 
 <!---
