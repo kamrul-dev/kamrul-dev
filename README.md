@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Kamrul Hasan
-- 👀 I’m interested in Data Science, Programming , Cyber-Security
-- 🌱 I’m currently learning Web Developing, Data Science.
+- 👀 I’m interested in Cloud Computing, DevOps, Data Science, Programming , Cyber-Security
+- 🌱 I’m currently learning Cloud Computing, DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me ...At Email: kamrul.hasan.swe@gmail.com
 
