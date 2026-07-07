@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Kamrul Hasan
-- 👀 I’m interested in Cloud Computing, DevOps, Data Science, Programming , Cyber-Security
-- 🌱 I’m currently learning Cloud Computing, DevOps.
+- 👀 I’m interested in AI Engineering, FDE, Cloud Computing, DevOps, Data Science, Programming , Cyber-Security
+- 🌱 I’m currently learning Forward Deployed Engineer (FDE), DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me ...At Email: kamrul.hasan.swe@gmail.com
 
